@@ -22,41 +22,21 @@ I enjoy designing scalable systems and building practical software using modern 
 
 # ■ TECH STACK
 
+<div align="center">
+
 ### Languages
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql&theme=dark" />
-</p>
 
-### Frontend
+### Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres&theme=dark" />
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,terraform,gcp,git,github,vscode&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,postgres,docker,terraform,gcp,git,github,vscode,tailwind&theme=dark" />
 
 ### AI
 
-<p align="center">
+`OpenAI Agents SDK` • `Prompt Engineering` • `LLM Applications`
 
-`OpenAI Agents SDK`
-&nbsp;&nbsp;
-`Prompt Engineering`
-&nbsp;&nbsp;
-`LLM Applications`
-
-</p>
+</div>
 
 ---
 
