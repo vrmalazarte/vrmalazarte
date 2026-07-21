@@ -1,209 +1,149 @@
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ █ SAVE SLOT 01                                               │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│ PLAYER      Van Rae Malazarte                                │
-│ CLASS       Computer Science Graduate                        │
-│ BUILD       Backend • AI • Cloud                             │
-│ STATUS      █ ONLINE                                         │
-│ PLAY TIME   4+ Years Coding                                  │
-│ LOCATION    Philippines                                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<img src="header.png" width="100%" alt="Van Rae Malazarte Pixel Banner">
 
-Backend • AI • Cloud
+# Van Rae Malazarte
 
-<sub>Building practical software with modern technologies.</sub>
+### Backend • AI • Cloud
+
+Computer Science graduate passionate about building scalable backend systems, AI applications, and cloud-native solutions.
 
 </div>
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ █ ABOUT                                                      │
-├──────────────────────────────────────────────────────────────┤
-```
+# ■ ABOUT
 
-I'm a Computer Science graduate passionate about backend engineering, AI systems, and cloud technologies.
+I'm a Computer Science graduate with a strong interest in backend engineering, artificial intelligence, and cloud computing.
 
-I enjoy building scalable software using Python, FastAPI, React, PostgreSQL, Docker, Terraform, and Google Cloud.
-
-Recently, I've been developing AI applications using the OpenAI Agents SDK, focusing on multi-agent systems, tool calling, persistent memory, and cloud deployment.
-
-```text
-└──────────────────────────────────────────────────────────────┘
-```
+I enjoy designing scalable systems and building practical software using modern technologies. My recent work focuses on multi-agent AI applications, cloud deployment, APIs, and backend architecture.
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ █ TECH STACK                                                 │
-├──────────────────────────────────────────────────────────────┤
-```
+# ■ TECH STACK
 
-► LANGUAGES
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql&theme=dark" />
 </p>
 
-► FRONTEND
+### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 </p>
 
-► BACKEND
+### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres&theme=dark" />
 </p>
 
-► CLOUD & DEVOPS
+### Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,terraform,gcp,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,terraform,gcp,git,github,vscode&theme=dark" />
 </p>
 
-► AI
+### AI
 
-`OpenAI Agents SDK` • `LLM Applications` • `Prompt Engineering`
+<p align="center">
 
-```text
-└──────────────────────────────────────────────────────────────┘
-```
+`OpenAI Agents SDK`
+&nbsp;&nbsp;
+`Prompt Engineering`
+&nbsp;&nbsp;
+`LLM Applications`
+
+</p>
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ █ PROJECTS                                                   │
-├──────────────────────────────────────────────────────────────┤
-```
+# ■ FEATURED PROJECTS
 
-► OCTA Multi-Agent Student Services
+## ► OCTA Multi-Agent Student Services
 
-Cloud-native student services platform built using the OpenAI Agents SDK, FastAPI, PostgreSQL, Terraform, and Google Cloud. Supports specialized AI agents, persistent memory, structured outputs, and cloud deployment.
+Cloud-native student services assistant built with:
 
-──────────────────────────────────────────────────────────────
+- OpenAI Agents SDK
+- FastAPI
+- PostgreSQL
+- Terraform
+- Google Cloud
 
-► AI Appointment Booking Assistant
+**Features**
 
-Conversational AI assistant with scheduling, tool calling, and persistent conversation memory.
-
-──────────────────────────────────────────────────────────────
-
-► GameIT
-
-Educational Roblox experience that teaches Java programming through gamified learning.
-
-──────────────────────────────────────────────────────────────
-
-► Interactive Marketing Kiosk
-
-React application developed during my internship with the Holy Angel University Marketing Team.
-
-```text
-└──────────────────────────────────────────────────────────────┘
-```
+- Multi-agent handoffs
+- Persistent memory
+- Function calling
+- Structured outputs
+- Cloud Run deployment
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ █ CURRENTLY LEARNING                                         │
-├──────────────────────────────────────────────────────────────┤
-```
+## ► AI Appointment Booking Assistant
 
+An AI-powered scheduling assistant capable of managing appointments through natural conversation while maintaining persistent memory and tool calling.
+
+---
+
+## ► GameIT
+
+A Roblox-based educational platform designed to teach Java programming concepts through interactive gameplay and gamified learning.
+
+---
+
+## ► Interactive Marketing Kiosk
+
+A React application developed during my internship at Holy Angel University to improve visitor engagement through an interactive digital kiosk.
+
+---
+
+# ■ CURRENTLY LEARNING
+
+```text
 ► Multi-Agent Systems
 
 ► Model Context Protocol (MCP)
 
 ► Retrieval-Augmented Generation (RAG)
 
-► Cloud Architecture
-
 ► AI Engineering
 
-```text
-└──────────────────────────────────────────────────────────────┘
+► Cloud Architecture
 ```
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ █ GITHUB STATS                                               │
-├──────────────────────────────────────────────────────────────┤
-```
+# ■ GITHUB STATS
 
-> GitHub stats will appear here once the public API becomes available again.
+<div align="center">
 
-<!--
-GitHub Stats Card
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vrmalazarte&show_icons=true&theme=github_dark&hide_border=true" />
 
-Top Languages Card
--->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrmalazarte&layout=compact&theme=github_dark&hide_border=true" />
 
-```text
-└──────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ █ CONTACT                                                    │
-├──────────────────────────────────────────────────────────────┤
-```
+# ■ CONNECT
 
-► GitHub
+<div align="center">
 
-github.com/vrmalazarte
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vrmalazarte)
 
-► LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/van-malazarte-6028b5364)
 
-linkedin.com/in/van-malazarte-6028b5364
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vannnmalazarte@gmail.com)
 
-► Email
-
-vannnmalazarte@gmail.com
-
-► Portfolio
-
-Coming Soon
-
-```text
-└──────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│ SYSTEM                                                      █│
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│ USER        Van Rae Malazarte                                │
-│ STATUS      ONLINE                                           │
-│ BUILD       Backend • AI • Cloud                             │
-│ VERSION     v1.0                                              │
-│                                                              │
-│ Thank you for visiting my profile.                           │
-│                                                              │
-│ > Continue                                                   │
-│   Exit                                                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<img src="footer.png" width="100%" alt="System Status Footer">
 
 </div>
