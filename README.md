@@ -1,4 +1,4 @@
-<h1 align="center">Van Malazarte</h1>
+<h1 align="center">Van Rae Malazarte</h1>
 
 <p align="center">
 Computer Science Graduate • AI Engineer • Full Stack Developer
