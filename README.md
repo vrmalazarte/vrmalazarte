@@ -55,7 +55,7 @@ OpenAI Agents SDK • Prompt Engineering • LLM Applications
 
 ## Featured Projects
 
-### Multi-Agent Student Services Assistant
+### Octa Multi-Agent Student Services Assistant
 
 A cloud-based AI assistant built with the OpenAI Agents SDK, FastAPI, PostgreSQL, Terraform, and Google Cloud. The system uses multiple specialized agents with tool calling, memory, and structured outputs to assist students with scheduling, billing, and support.
 
