@@ -75,7 +75,7 @@ A React-based kiosk application developed during my internship for the Holy Ange
 
 ## GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vrmalazarte&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrmalazarte&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=c9d1d9" />
@@ -83,7 +83,7 @@ A React-based kiosk application developed during my internship for the Holy Ange
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=vrmalazarte&theme=github-dark&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
